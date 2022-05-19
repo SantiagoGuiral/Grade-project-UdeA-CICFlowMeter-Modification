@@ -92,3 +92,47 @@ Idle Std			Standard deviation time a flow was idle before becoming active
 
 --------------------------------------------------------------------------------------
 
+Modifications made by Santiago Rios Guiral
+Email: santiagowslg@gmail.com
+University: Universidad de Antioquia
+Grade Project: Desarrollo de extractor de características de tráfico de redes orientado a la identificación y análisis en la detección de ataques.
+2022
+
+For the elaboration of the grade project, the CICFLOWMETER extractor was modified by including a total of 29 characteristics that allows to obtain more information of the network traffic.
+
+The added characteristics are shown next:
+
+--------------------------------------------------------------------------------------
+
+Forward Pscket Relative Standar Deviation
+Forward Packet Median
+Forward Packet IQR
+Backward Packet Relative Standar Deviation
+Backward Packet Median
+Backward Packet IQR
+Flow IAT Relative Standar Deviation
+Flow IAT Median
+Flow IAT IQR
+Forward IAT Relative Standard Deviation
+Forward IAT Median
+Forward IAT IQR
+Backward IAT Relative Standard Deviation
+Backward IAT Median
+Backward IAT IQR
+Flow Rleative Standard Deviation
+Flow Median
+Flow IQR
+Flow Active Relative Standard Deviation
+Flow Active Median
+Flow Active IQR
+Flow Idle Relative Standard Deviation
+Flow Idle Median
+Flow Idle IQR
+Total Packet Count in the Bidirectional flow
+Total Bytes count in the bidirectional flow
+Average Bytes per packet in the flow
+Average Bytes per packet in the forward direction
+Average Bytes per packet in the backward direciton
+
+--------------------------------------------------------------------------------------
+

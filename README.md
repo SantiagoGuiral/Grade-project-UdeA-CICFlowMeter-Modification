@@ -1,3 +1,18 @@
+## Installation of required libraries for linux
+```
+sudo apt install gradle
+sudo apt install openjdk-8-jre
+sudo apt install openjdk-8-jdk
+```
+
+## Execute the program from an ubuntu terminal
+```
+sudo ./gradlew execute
+```
+
+
+## Original recomendations given in the CICFLOWMETER repository
+
 ## Install jnetpcap local repo
 
 for linux, sudo is a prerequisite
